@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.info-container, .operations-div{
+    margin: auto;
+    width: 50%;
+    border: 1px solid black;
+    padding: 40px;
+    line-height: 1.5;
+    background-color: black;
+    color: white;
+}
+
+#video{
+    display: none;
+}
+
+.previous-p-tags{
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+}
